@@ -1,0 +1,22 @@
+{
+  "name": "elm-demo-start-app",
+  "version": "1.0.0",
+  "description": "following tutorial at https://yobriefca.se/blog/2015/08/02/deconstructing-your-first-elm-app/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intrepion/elm-demo-start-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intrepion/elm-demo-start-app/issues"
+  },
+  "homepage": "https://github.com/intrepion/elm-demo-start-app#readme",
+  "dependencies": {
+    "elm": "^0.16.0"
+  }
+}
